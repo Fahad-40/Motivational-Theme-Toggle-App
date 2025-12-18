@@ -11,3 +11,9 @@ The app allows users to switch between **Light and Dark mode** while displaying 
 ✔ Clean, minimal, and modern UI  
 ✔ Beginner-friendly JavaScript logic  
 ✔ Responsive layout  
+
+## 🛠 Technologies Used
+
+- **HTML5** – Structure  
+- **CSS3** – Styling, themes & transitions  
+- **JavaScript (Vanilla)** – Theme toggle & dynamic quotes  
