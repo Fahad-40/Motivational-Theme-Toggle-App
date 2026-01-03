@@ -20,4 +20,4 @@ The app allows users to switch between **Light and Dark mode** while displaying 
 
 ## 🛠 Technologies Used
 
-- **HTML5** – 
+- **HTML5** 
